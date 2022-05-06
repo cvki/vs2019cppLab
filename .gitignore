@@ -4,6 +4,8 @@
 !*.cpp
 !*.hpp
 !*.cxx
-!*cc
+!*.cc
+!*.cu
+!*.cuh
 !Makefile
 !.gitignore
